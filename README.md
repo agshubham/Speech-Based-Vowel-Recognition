@@ -1,9 +1,12 @@
 # Speech-Based-Vowel-Recognition
 
 
-========================================================================
-    CONSOLE APPLICATION : 214101053_vowelRecognition Project Overview
-========================================================================
+
+/////////////////////////////////////////////////////////////////////////////
+
+CONSOLE APPLICATION : 214101053_vowelRecognition Project Overview
+
+/////////////////////////////////////////////////////////////////////////////
 
 AppWizard has created this 214101053_vowelRecognition application for you.
 
